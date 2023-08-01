@@ -12,7 +12,7 @@ Comentário
 
 # print(type(nome))
 
-a = 10
+ = 10
 b = 5.8
 c = "Rio de Janeiro"
 d = True
